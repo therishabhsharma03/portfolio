@@ -34,7 +34,9 @@
             "src":"./imgs/placeholder-image.png",
             "title":"Emitence Realty",
             "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
-            "link":"View in Github"
+            "link":"View in Github",
+            "li":"https://github.com/therishabhsharma03/emitence-2.0-master",
+            "im":"https://www.emitencerealty.com/"
            
         },
         {
@@ -42,14 +44,17 @@
             "src":"./imgs/placeholder-image-1.png",
             "title":"High Security Camera",
             "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
-            "link":"View in Github"
+            "link":"View in Github",
+            "li":"https://github.com/therishabhsharma03/SecurityCAMERA"
         },
         {
             "id":3,
             "src":"./imgs/placeholder-image-2.png",
             "title":"Calculator",
             "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
-            "link":"View in Github"
+            "link":"View in Github",
+            "li":"https://github.com/therishabhsharma03/task2",
+            "im":"https://task2-seven-rose.vercel.app/"
         }
 
     ]
