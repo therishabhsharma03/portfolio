@@ -42,10 +42,11 @@
         {
             "id":2,
             "src":"./imgs/placeholder-image-1.png",
-            "title":"High Security Camera",
+            "title":"React Projects",
             "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
             "link":"View in Github",
-            "li":"https://github.com/therishabhsharma03/SecurityCAMERA"
+            "li":"https://github.com/therishabhsharma03/SecurityCAMERA",
+            "im":"https://therishabhsharma03.github.io/React_Tasks/"
         },
         {
             "id":3,
