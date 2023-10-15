@@ -4,25 +4,25 @@
             "id":1,
             "src":"./imgs/product-chain-1.png",
             "title":"Front-End",
-            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit"
+            "decription":""
         },
         {
             "id":2,
             "src":"./imgs/tag-1.png",
             "title":"Back-End",
-            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit"
+            "decription":""
         },
         {
             "id":3,
             "src":"./imgs/feather-pen-2.png",
-            "title":"UI and UX",
-            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit"
+            "title":"Computer Vision",
+            "decription":""
         },
         {
             "id":3,
             "src":"./imgs/feather-pen-1.png",
             "title":"WebFlow Development",
-            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit"
+            "decription":""
         }
     ],
 
@@ -40,7 +40,7 @@
         {
             "id":2,
             "src":"./imgs/placeholder-image-1.png",
-            "title":"The Tribune",
+            "title":"High Security Camera",
             "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
             "link":"View in Github"
         },
