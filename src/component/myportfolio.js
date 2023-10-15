@@ -40,7 +40,7 @@ export default function MyPortfolio(){
                 <p className="text-md">{item.description}</p>
               </div>
               <p className="text-sm portfolio--link">
-                <a href="https://github.com/therishabhsharma03/emitence-2.0-master">{item.link}</a>
+                <a href={item.li}>{item.link}</a>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
