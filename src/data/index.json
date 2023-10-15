@@ -1,0 +1,56 @@
+{
+    "skills":[
+        {
+            "id":1,
+            "src":"./imgs/product-chain-1.png",
+            "title":"Front-End",
+            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit"
+        },
+        {
+            "id":2,
+            "src":"./imgs/tag-1.png",
+            "title":"Back-End",
+            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit"
+        },
+        {
+            "id":3,
+            "src":"./imgs/feather-pen-2.png",
+            "title":"UI and UX",
+            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit"
+        },
+        {
+            "id":3,
+            "src":"./imgs/feather-pen-1.png",
+            "title":"WebFlow Development",
+            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit"
+        }
+    ],
+
+
+
+    "portfolio":[
+        {
+            "id":1,
+            "src":"./imgs/placeholder-image.png",
+            "title":"Emitence Realty",
+            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
+            "link":"View in Github"
+           
+        },
+        {
+            "id":2,
+            "src":"./imgs/placeholder-image-1.png",
+            "title":"The Tribune",
+            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
+            "link":"View in Github"
+        },
+        {
+            "id":3,
+            "src":"./imgs/placeholder-image-2.png",
+            "title":"Calculator",
+            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
+            "link":"View in Github"
+        }
+
+    ]
+}
