@@ -11,8 +11,13 @@
     "@types/node": "^16.7.13",
     "@types/react": "^17.0.20",
     "@types/react-dom": "^17.0.9",
+<<<<<<< HEAD
     "react": "^17.0.2",
     "react-animate-on-scroll": "^2.1.5",
+=======
+    "aos": "^2.3.4",
+    "react": "^17.0.2",
+>>>>>>> master
     "react-dom": "^17.0.2",
     "react-google-recaptcha": "^2.1.0",
     "react-router-dom": "^6.2.1",
@@ -50,6 +55,10 @@
     ]
   },
   "devDependencies": {
+<<<<<<< HEAD
+=======
+    "@types/aos": "^3.0.7",
+>>>>>>> master
     "@types/react-animate-on-scroll": "^2.1.5",
     "@types/react-google-recaptcha": "^2.1.2",
     "@types/react-router-hash-link": "^2.4.4",

@@ -10,9 +10,11 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://vinayaksingh.in" className="logo">
-        <span>www.vinayak</span>
-        <span>singh.in</span>
+
+      <a href="https://portfolio-dun-chi-40.vercel.app/" className="logo">
+        <span>www.Rishabh</span>
+        <span>sharma.in</span>
+
       </a>
       <div>
         <p>
@@ -22,40 +24,51 @@ export function Footer() {
       </div>
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/codevinayak"
+
+          href="http://linkedin.com/in/rishabhsssharma"
+
           target="_blank"
           rel="noreferrer"
         >
           <img src={linkedin} alt="Linkedin" />
         </a>
         <a
-          href="https://github.com/CodeVinayak/"
+
+          href="http://github.com/therishabhsharma03"
+
           target="_blank"
           rel="noreferrer"
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
-        <a
+
+        {/* <a
+>>>>>>> master
           href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Vinayak"
           target="_blank"
           rel="noreferrer"
         >
           <img src={whatsapp} alt="Whatsapp" />
-        </a>
-        <a
+
+        </a> */}
+        {/* <a
+>>>>>>> master
           href="https://t.me/CodeVinayak"
           target="_blank"
           rel="noreferrer"
         >
           <img src={telegram} alt="telegram" />
-        </a>
-        <a
+        </a> */}
+        {/* <a
+>>>>>>> master
           href="https://www.instagram.com/vinayaksingh.in"
           target="_blank"
           rel="noreferrer"
         >
           <img src={instagramIcon} alt="Instagram" />
-        </a>
+
+        </a> */}
+
       </div>
     </Container>
   )
