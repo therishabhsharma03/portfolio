@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-=======
+
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
->>>>>>> master
 import { Container } from "./styles";
 import VinayakSingh from "../../assets/VinayakSingh.png";
 import wordpress from "../../assets/wordpress.svg";
